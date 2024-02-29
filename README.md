@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">𝐻𝒾 𝓉𝒽𝑒𝓇𝑒👋. 𝐼 𝒶𝓂 <a href="https://github.com/Nikitina Maria/" target="_blank">𝑀𝒶𝓇𝓎</a> 
+<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋. 𝕀'𝕞 <a href="https://github.com/Nikitina Maria/" target="_blank">𝕄𝕒𝕣𝕪</a> 
 <h3 align="center">Beeline Junior DS and MIPT student 24'</h3>
 
 - 📔 My areas of interest are python programming, optimization, classical machine learning, NLP 📜 and CV 👀.

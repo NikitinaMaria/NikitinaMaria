@@ -2,7 +2,8 @@
 <h3 align="center">Beeline Junior DS and MIPT student 24'</h3>
 
 - 📔 My areas of interest are python programming, optimization, classical machine learning, NLP 📜 and CV 👀.
-- 🔭 I’m currently working on my thesis in the field of computer vision, or rather contrastive learning. My task is to restore the initial distribution of vectors of different modalities in the embedding space.
+- 🎓 I’m currently working on my thesis in the field of computer vision, or rather contrastive learning. My task is to restore the initial distribution of vectors of different modalities in the embedding space.
+- 🔍 Here you can see my work as part of the course "My first scientific paper" about searching for terms in a collection of documents 📃, as well as group projects such as a text presentation generator 📊 and a mini-game 🏃.
 - ⚡ Fun facts: I do ballroom dancing 💃 and fire show 🔥.
 
 <!--

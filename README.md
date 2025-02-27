@@ -1,5 +1,5 @@
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋. 𝕀'𝕞 <a href="https://github.com/Nikitina Maria/" target="_blank">𝕄𝕒𝕣𝕪</a> 
-<h3 align="center">Beeline Junior DS and MIPT student 26'</h3>
+<h3 align="center">Tochka Middle DS and MIPT student 26'</h3>
 
 - 📔 My areas of interest are python programming, optimization, classical machine learning, NLP 📜 and CV 👀.
 - 🎓 I’m currently working on my thesis in the field of computer vision, or rather contrastive learning. My task is to restore the initial distribution of vectors of different modalities in the embedding space.
